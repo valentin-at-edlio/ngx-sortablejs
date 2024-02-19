@@ -1,3 +1,14 @@
+# FORK
+
+This is a forked version updated to work with Angular 12.
+
+### Publish new forked version to npm
+
+- use Node.js v16
+- `yarn`
+- `npm run build:lib`
+- `npm publish dist\ngx-sortablejs --access public`
+
 # ngx-sortablejs
 
 This package is an Angular 2+ binding for [Sortable.js](https://github.com/RubaXa/Sortable). Supports standard arrays and Angular `FormArray`.

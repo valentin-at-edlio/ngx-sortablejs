@@ -1,5 +1,6 @@
 {
-  "name": "ngx-sortablejs",
+  "name": "@valentin-at-edlio/ngx-sortablejs",
+  "version": "12.0.2",
   "keywords": [
     "ngx-sortablejs",
     "angular-sortablejs",
@@ -18,8 +19,8 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@angular/common": "^11.0.0",
-    "@angular/core": "^11.0.0",
+    "@angular/common": "^12.0.0",
+    "@angular/core": "^12.0.0",
     "sortablejs": ">=1.7.0"
   },
   "main": "src/public-api.ts"
