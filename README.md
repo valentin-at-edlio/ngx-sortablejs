@@ -1,10 +1,10 @@
 # FORK
 
-This is a forked version updated to work with Angular 13.
+Fork of https://github.com/SortableJS/ngx-sortablejs
 
 ### Publish new forked version to npm
 
-- use Node.js v16
+- use Node.js v18
 - `yarn`
 - `npm run build:lib`
 - `npm publish dist\ngx-sortablejs --access public`

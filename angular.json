@@ -138,7 +138,6 @@
       }
     }
   },
-  "defaultProject": "ngx-sortablejs-app",
   "cli": {
     "analytics": false
   }
