@@ -1,6 +1,6 @@
 # FORK
 
-This is a forked version updated to work with Angular 12.
+This is a forked version updated to work with Angular 13.
 
 ### Publish new forked version to npm
 
